@@ -30,7 +30,7 @@ android {
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
-    namespace = "com.zs.pdf_text" 
+    namespace = "dev.aluc.pdf_text" 
     defaultConfig {
         minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
